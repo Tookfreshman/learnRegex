@@ -1,4 +1,4 @@
-# learnRegex
+# Learn Regex
 原作者：老姚  
 链接：https://juejin.im/post/5965943ff265da6c30653879  
 来源：掘金  
